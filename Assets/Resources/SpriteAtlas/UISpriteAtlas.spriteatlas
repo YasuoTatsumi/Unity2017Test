@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UISpriteAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: c3ac6438fb0c28e3b292b0831e9a5eea
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: c3ac6438fb0c28e3b292b0831e9a5eea
+    totalSpriteSurfaceArea: 32
+    packables:
+    - {fileID: 102900000, guid: e0d9c608905596448941eee8532fd783, type: 3}
+    packedSpriteRenderDataKeys:
+    - 602d353aa76a724498c905b529be9e31: 21300000
+    - 6d6a1310d92cdb14986e48e842b90765: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 602d353aa76a724498c905b529be9e31, type: 3}
+  - {fileID: 21300000, guid: 6d6a1310d92cdb14986e48e842b90765, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Triangle
+  - Square
+  m_Tag: UISpriteAtlas
+  m_IsVariant: 0
